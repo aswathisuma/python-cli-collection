@@ -4,7 +4,7 @@ A collection of standalone Python command-line projects built for learning, prac
 
 Projects Included
 1. Pattern & Math CLI Application
-----------------------------------
+   
 Menu-driven Python application featuring:
 Pyramid star pattern generation
 Inverted number pattern
@@ -19,7 +19,7 @@ Lambda expressions
 User input handling
 
 2. Student Record Management System
--------------------------------------
+
 Python program to manage student records and perform data analysis.
 
 Features:
@@ -41,7 +41,7 @@ Shallow & Deep Copy
 Error Handling
 
 3. Student Rank List Management System
-----------------------------------------
+
 Object-Oriented Python application for preparing student rank lists.
 
 Features:
